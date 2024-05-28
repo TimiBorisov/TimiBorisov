@@ -3,18 +3,18 @@
 
 👨🏻‍💻 I'm currently working as a Service Desk Engineer at [Spotlight Sports Group](https://www.spotlightsportsgroup.com/)
  
- 💭  Learning about the Clouds [AWS](https://aws.amazon.com/) and [GCP](https://cloud.google.com/)
+💭  Learning about the Clouds [AWS](https://aws.amazon.com/) and [GCP](https://cloud.google.com/)
  
- 👀  Looking to collaborate on projects to practice deploying applications using CI/CD pipelines, containerization, and orchestration
-
-💬 How I'm Looking to Advance My Career:
+👀  Looking to collaborate on projects to practice deploying applications using CI/CD pipelines, containerization, and orchestration
 
 
----> Building my own Resume and Portfolio
+💬  How I'm Looking to Advance My Career:
 
---> Seeking opportunity and collaborations within junior Cloud Engineer / Junior DevOps roles
+💡  Ongoing Projects --> Building my own Resume and Portfolio --> 
 
--> Continuous Learning the latest DevOps and Cloud trends and technologies
+ --> Seeking opportunity and collaborations within junior Cloud Engineer / Junior DevOps roles --> 
+
+ --> Continuous Learning the latest DevOps and Cloud trends and technologies <--
   
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/tihomir-borisov-310467132/)
 
