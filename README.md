@@ -5,7 +5,7 @@
  
  💭  Learning about the Clouds [AWS](https://aws.amazon.com/) and [GCP](https://cloud.google.com/)
  
- 👀  Looking to collaborate on projects to practice deploying applications using CI/CD pipelines, containerization, and orchestration.
+ 👀  Looking to collaborate on projects to practice deploying applications using CI/CD pipelines, containerization, and orchestration
 
 💬 How I'm Looking to Advance my Career:
 
