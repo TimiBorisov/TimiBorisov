@@ -10,7 +10,7 @@
 💬 How I'm Looking to Advance my Career:
 
 - Building my own Resume and Portfolio
-- Seeking Entry-Level Positions as a junior Cloud Engineer / Junior DevOps roles
+- Seeking opportunity and collaborations within junior Cloud Engineer / Junior DevOps roles
 - Continuous Learning the latest DevOps and Cloud trends and technologies
   
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/tihomir-borisov-310467132/)
