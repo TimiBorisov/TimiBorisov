@@ -7,7 +7,7 @@
  
  👀  Looking to collaborate on Cloud Projects
 
-- 💬 Ask me about anything on my Profesional Journey.
+- 💬 Ask me about anything on my Professional Journey.
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/tihomir-borisov-310467132/)
 
  ⚡ Fun fact: 
