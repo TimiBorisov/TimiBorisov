@@ -12,7 +12,7 @@
 
 💡  Ongoing Projects --> Building my own Resume and Portfolio --> 
 
- --> Seeking opportunity and collaborations within junior Cloud Engineer / Junior DevOps roles --> 
+ --> Seeking opportunity and collaborations within Junior Cloud Engineer / Junior DevOps roles --> 
 
  --> Continuous Learning the latest DevOps and Cloud trends and technologies <--
   
