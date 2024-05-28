@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Timi Borisov! 
 
-<!--
-**TimiBorisov/TimiBorisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨🏻‍💻 I'm currently working as a Service Desk Engineer at [Spotlight Sports Group](https://www.spotlightsportsgroup.com/)
+ 
+ 💭  Learning about the Clouds [AWS](https://aws.amazon.com/) and [GCP](https://cloud.google.com/)
+ 
+ 👀  Looking to collaborate on Cloud Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything on my Profesional Journey.
+- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/tihomir-borisov-310467132/)
+
+ ⚡ Fun fact: 
+ 
+         I drink coffee ☕️☕️☕️
+--> https://www.deluxecoffeeworks.co.uk/
