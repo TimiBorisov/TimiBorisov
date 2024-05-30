@@ -1,6 +1,6 @@
 # 🎃 About Me:
 
-Hi, I'm Timi!
+Hi, I'm Timi 
 
 <br>👨🏻‍💻 I'm currently working as a Service Desk Engineer at Spotlight Sports Group<br><br>💭 Learning about the Clouds **AWS** and **GCP**<br><br>👀 Looking to collaborate on projects to practice deploying applications using CI/CD pipelines, containerization, and orchestration<br><br>💬 How I'm Looking to Advance My Career:<br><br>💡 Ongoing Projects --> Building my own Resume and Portfolio --><br><br>--> Seeking opportunity and collaborations within **Junior Cloud Engineer** / **Junior DevOps** roles --><br><br>--> Continuous Learning the latest DevOps and Cloud trends and technologies <--<br><br> ⚡ Fun fact - It's fascinating how something so simple as a cup of coffee can have such a significant impact on global culture and economies!<br><br>#Coffee, #vinyl, and #tech.
 
