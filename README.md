@@ -1,4 +1,4 @@
-# Hi, I'm Tihomir 👋
+# Hi, I'm Timi 👋
 
 ## Application Security Engineer
 
